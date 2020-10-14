@@ -1,0 +1,54 @@
+# ============================================================================ : 
+# Technial: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ : 
+# ============================================================================ : 
+
+# ---------------------------------------------------------------------------- :
+
+Parallel Computation Using DSP Slices in FPGA: (entered: 10/13/2020)
+
+https://www.researchgate.net/publication/305110029_Parallel_Computation_Using_DSP_Slices_in_FPGA
+
+# ---------------------------------------------------------------------------- :
+
+FPGA Design and Implementation of Matrix Multiplier Architectures for Image and Signal Processing Applications
+
+https://www.researchgate.net/publication/231609062_FPGA_Design_and_Implementation_of_Matrix_Multiplier_Architectures_for_Image_and_Signal_Processing_Applications
+
+
+
+
+
+# ============================================================================ : 
+# Articles: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ : 
+# ============================================================================ : 
+
+# ---------------------------------------------------------------------------- :
+
+FPGA Routing Techniques (entered: 10/13/2020)
+
+http://www.tutorial-reports.com/computer-science/fpga/routing.php
+
+# ---------------------------------------------------------------------------- :
+
+In-lab FPGA verification is here to stay (entered:10/13/2020): 
+
+https://www.embedded-computing.com/embedded-computing-design/in-lab-fpga-verification-is-here-to-stay 
+
+# ---------------------------------------------------------------------------- :
+
+FPGA designers turn to machine learning in the cloud (entered: 10/13/2020): 
+
+https://www.embedded-computing.com/embedded-computing-design/fpga-designers-turn-to-machine-learning-in-the-cloud
+
+This article discusses how some use ML to improve the development- and 
+process-cycles of FPGAs.  
+
+"While an increasing number of software developers realize that FPGAs are 
+ideal for implementing their algorithms, they found that they’re not easy to
+design. The ongoing tussle between FPGAs, GPUs, and custom accelerators in 
+data centers further illustrates the importance of FPGAs in high-performance
+heterogeneous computing platforms."
+
+"The final trend is the range of artificial intelligence and machine 
+learning applications to support FPGA and ASIC designs. ** The obvious 
+conclusion is to solve timing closure **."
