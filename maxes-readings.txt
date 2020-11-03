@@ -24,6 +24,21 @@ https://www.researchgate.net/publication/231609062_FPGA_Design_and_Implementatio
 
 # ---------------------------------------------------------------------------- :
 
+SiFive reminds everyone you dont always need to offload vector math: Heres 
+a RISC-V CPU that cna process it, too:
+
+https://www.theregister.com/2020/10/21/sifive_vector_cpu_core/
+
+
+Links: 
+
+  * Programming w/ RISC-V Vector Instructions: 
+
+
+
+
+# ---------------------------------------------------------------------------- :
+
 FPGA Routing Techniques (entered: 10/13/2020)
 
 http://www.tutorial-reports.com/computer-science/fpga/routing.php
